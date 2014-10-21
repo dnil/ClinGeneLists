@@ -14,3 +14,5 @@ do
 	fi
     done
 done
+
+exit $status

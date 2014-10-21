@@ -14,4 +14,4 @@ do
     fi
 done
 
-return $status
+exit $status
