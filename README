@@ -1,7 +1,16 @@
 Clinical Genetics Gene Lists
 
-Please update only lists in the src subdirectory.
-Be careful to tag versions.
+Daniel Nilsson
 
-After updates, do:
+Please update only lists in the src subdirectory.
+
+Input:
+
+* Lists of gene symbols, one per line in text files with a .txt ending in the src directory.
+
+Be careful to tag versions, and commit changes to genelists!
+
+After updates, to check the lists for redundancy and concurrency of gene symbols, please run from the main directory:
+
 ./update.sh
+
