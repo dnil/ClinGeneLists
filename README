@@ -1,0 +1,7 @@
+Clinical Genetics Gene Lists
+
+Please update only lists in the src subdirectory.
+Be careful to tag versions.
+
+After updates, do:
+./update.sh
