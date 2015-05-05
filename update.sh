@@ -3,6 +3,7 @@
 cd src 
 ../bin/check_redundancy.sh
 ../bin/hgnc_gene_symbol_verify.sh
+sha256sum *
 cd ..
 
 ./bin/cite_mark.sh
